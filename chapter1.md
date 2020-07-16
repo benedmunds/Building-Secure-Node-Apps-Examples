@@ -1,6 +1,7 @@
-# Chapter 1 
+# Chapter 1 - Never Trust Your Users. Sanitize ALL Input!
 
-## How to Guard Against It
+## SQL Injection
+### How to Guard Against It
 
 ```
 var pg = require('pg');
